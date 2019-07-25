@@ -12,7 +12,7 @@ Libraries CDN, rather than from WordPress's own copies.
 == Description ==
 
 A number of the javascript libraries distributed with Wordpress are also 
-hosted on Google's [AJAX Libraries API](http://code.google.com/apis/ajaxlibs/).
+hosted on Google's [AJAX Libraries API](https://developers.google.com/speed/libraries/).
 This plugin allows your Wordpress site to use the content distribution 
 network side of Google's AJAX Library API, rather than serving these files from your WordPress install directly.
 
@@ -30,7 +30,7 @@ you](http://encosia.com/2008/12/10/3-reasons-why-you-should-let-google-host-jque
 = Supported Libraries and Components =
 
 * [Dojo](http://dojotoolkit.org/)
-* [jQuery](http://jquery.com/)
+* [jQuery](https://jquery.com/)
 * [jQuery UI](http://ui.jquery.com/)
 * [MooTools](http://mootools.net/)
 * [Prototype](http://www.prototypejs.org/)
@@ -40,9 +40,9 @@ you](http://encosia.com/2008/12/10/3-reasons-why-you-should-let-google-host-jque
 = Links =
 
 * [Use Google Libraries Home](http://jasonpenney.net/wordpress-plugins/use-google-libraries/)
-* [Issue Tracker](http://github.com/jpenney/use-google-libraries/issues)
-* [GitHub Repository](http://github.com/jpenney/use-google-libraries)
-* [Support Forum](http://wordpress.org/support/plugin/use-google-libraries)
+* [Issue Tracker](https://github.com/jpenney/use-google-libraries/issues)
+* [GitHub Repository](https://github.com/jpenney/use-google-libraries)
+* [Support Forum](https://wordpress.org/support/plugin/use-google-libraries)
 
 == Installation ==
 
@@ -103,7 +103,7 @@ point.
 
 Better WordPress Minify version 1.2.2 does not yet support
 protocol-relative URLs, but [the next release is supposed to correct
-this](http://wordpress.org/support/topic/conflict-with-use-google-libraries-152).
+this](https://wordpress.org/support/topic/conflict-with-use-google-libraries-152/).
 
 = Gravity Forms = 
 
